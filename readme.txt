@@ -11,7 +11,18 @@ A small utility that allows for faster navigation in the Give WordPress plugin f
 
 == Description ==
 
-A small utility that allows for faster navigation in the Give WordPress plugin from the admin bar. Require the Give plugin by WordImpress to work.
+A time-saving plugin for non-profits using the Give Plugin by WordImpress. Simply adds some cool menus to the WordPress admin bar. You need to have the Give WordPress plugin installed for the plugin to work.
+
+The plugin includes menus for:
+- All Give Forms
+- Add a new Give Form
+- View Transactions (Including all total transaction on your entire site to the right of it)
+- Reports
+- Settings
+
+These are all simple links that will connect the frontend of WordPress to the dashboard lightning fast.
+
+This plugin requires no options and has is really simple to install (as stated in the installation section)
 
 == Screenshots ==
 
