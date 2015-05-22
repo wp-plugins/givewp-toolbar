@@ -13,6 +13,10 @@ A small utility that allows for faster navigation in the Give WordPress plugin f
 
 A small utility that allows for faster navigation in the Give WordPress plugin from the admin bar. Require the Give plugin by WordImpress to work.
 
+== Screenshots ==
+
+1. The Current Toolbar
+
 == Installation ==
 
 1. Unpack the entire contents of this plugin zip file into your `wp-content/plugins/` folder locally
